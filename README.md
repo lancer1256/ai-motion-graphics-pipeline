@@ -8,9 +8,8 @@ This repository was extracted from the August 3, 2025 Fantas codebase at commit 
 
 ## Generated examples
 
-These three complete videos were produced by the pipeline:
+These two complete videos were produced by the pipeline:
 
-- [`DM075lqA_8j.mp4`](demo/instagram/DM075lqA_8j.mp4)
 - [`DM07Z3KApB-.mp4`](demo/instagram/DM07Z3KApB-.mp4)
 - [`DM08A8CAlQv.mp4`](demo/instagram/DM08A8CAlQv.mp4)
 
@@ -28,7 +27,7 @@ These three complete videos were produced by the pipeline:
 - `backend/app/features/video_generation/` — optional Hailuo/fal.ai generation stage
 - `backend/app/features/transition_video/` — deterministic word-timed Remotion renderer
 - `prompt-history/` — the selected historical prompt stack
-- `demo/instagram/` — three generated public examples and cover frames
+- `demo/instagram/` — two generated public examples and cover frames
 
 ## Run the deterministic renderer
 
