@@ -1,6 +1,6 @@
-# AI Motion Graphics Pipeline
+# Autonomous AI Motion Graphics Editor
 
-An open snapshot of an early 2025 AI video-editing pipeline. It used an LLM to break a script into visual beats, generate motion-graphic concepts and prompts, create animated visual clips with Hailuo through fal.ai, and combine those clips with deterministic Remotion typography timed to the transcript.
+An open snapshot of an early 2025 autonomous AI motion-graphics editor. It used an LLM to break a script into visual beats, generate motion-graphic concepts and prompts, create animated visual clips with Hailuo through fal.ai, and combine those clips with deterministic Remotion typography timed to the transcript.
 
 This repository was extracted from the August 3, 2025 Fantas codebase at commit `b67e45a47`, immediately before the product pivoted toward avatar video.
 
@@ -8,9 +8,9 @@ This repository was extracted from the August 3, 2025 Fantas codebase at commit 
 
 These three complete videos were produced by the pipeline:
 
-- [`DM075lqA_8j.mp4`](demo/instagram/DM075lqA_8j.mp4) — [Instagram post](https://www.instagram.com/reel/DM075lqA_8j/)
-- [`DM07Z3KApB-.mp4`](demo/instagram/DM07Z3KApB-.mp4) — [Instagram post](https://www.instagram.com/reel/DM07Z3KApB-/)
-- [`DM08A8CAlQv.mp4`](demo/instagram/DM08A8CAlQv.mp4) — [Instagram post](https://www.instagram.com/reel/DM08A8CAlQv/)
+- [`DM075lqA_8j.mp4`](demo/instagram/DM075lqA_8j.mp4)
+- [`DM07Z3KApB-.mp4`](demo/instagram/DM07Z3KApB-.mp4)
+- [`DM08A8CAlQv.mp4`](demo/instagram/DM08A8CAlQv.mp4)
 
 ## Pipeline
 
