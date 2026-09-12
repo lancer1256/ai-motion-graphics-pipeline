@@ -1,6 +1,8 @@
-# Autonomous AI Motion Graphics Editor
+# Autonomous Motion Graphics Editor Agent
 
-An open snapshot of an early 2025 autonomous AI motion-graphics editor. It used an LLM to break a script into visual beats, generate motion-graphic concepts and prompts, create animated visual clips with Hailuo through fal.ai, and combine those clips with deterministic Remotion typography timed to the transcript.
+An early autonomous video editor that does full motion graphics editing given an audio file. It uses Grok to chunk the script and plan the graphic for each scene, then creates the images, reflects on and improves them, writes the prompts for the animated graphic, and feeds them into Hailuo to generate the video.
+
+I used Mirage for avatar generation and MiniMax for TTS generation.
 
 This repository was extracted from the August 3, 2025 Fantas codebase at commit `b67e45a47`, immediately before the product pivoted toward avatar video.
 
